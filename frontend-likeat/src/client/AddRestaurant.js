@@ -159,7 +159,7 @@ export default function AddRestaurant() {
           </Form.Floating>
           <Form.Group className="mb-3">
             <PlacesPicker
-              gMapsKey='AIzaSyAG-SZyG6mMrfhGHJPcc1y8mCFCYd3FWpU'
+              gMapsKey='YOUR_GOOGLE_API_KEY'
               placeId={value}
               onChange={setValue}
               placeholder='Search for an address'
