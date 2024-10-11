@@ -1,6 +1,6 @@
 # Likeat - Restaurant Evaluation Platform
 
-Likeat is a web application designed to allow users to manage, evaluate, and review restaurants. Built with a Java-based backend and a React-based frontend, the platform offers a smooth and responsive user experience. Restaurant owners can manage their listings, customers can leave reviews, and admins oversee all operations. A fair ranking algorithm ensures unbiased restaurant ratings.
+Likeat is a web application designed to allow users to manage, evaluate, and review restaurants. Built with a Java Spring Boot backend and a React-based frontend, the platform offers a smooth and responsive user experience. Restaurant owners can manage their listings, customers can leave reviews, and admins oversee all operations. A fair ranking algorithm ensures unbiased restaurant ratings.
 
 ## Table of Contents
 
