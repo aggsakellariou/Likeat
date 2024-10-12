@@ -17,7 +17,7 @@ Likeat is a web application designed to allow users to manage, evaluate, and rev
 - **Restaurant Reviews**: Customers can leave reviews and rate restaurants.
 - **Fair Ranking Algorithm**: A custom algorithm ensures that restaurant rankings are unbiased and fair, providing an accurate reflection of user reviews.
 - **Admin Control**: Admins have full control over the system, including user management and restaurant approval.
-- **Responsive Frontend**: The frontend is designed with React to ensure a responsive, user-friendly experience across devices.
+- **Responsive Frontend**: The frontend is designed with React to ensure a responsive, user-friendly experience.
 
 ## Requirements
 
