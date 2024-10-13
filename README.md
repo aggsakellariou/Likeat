@@ -8,7 +8,6 @@ Likeat is a web application designed to allow users to manage, evaluate, and rev
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -85,7 +84,3 @@ Likeat is a web application designed to allow users to manage, evaluate, and rev
 3. Admin users can log in to manage restaurants, reviews, and users.
 4. Restaurant owners can register their restaurants and manage their profiles.
 5. Customers can browse restaurants, add reviews, and view others' feedback.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
